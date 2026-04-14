@@ -1,8 +1,8 @@
 # Hi there 👋 I'm KOTKOKOCC!
-[![Python](https://shields.io)](https://python.org)
-[![MikroTik](https://shields.io)](https://mikrotik.com)
-[![Eltex](https://shields.io)](https://eltex-co.ru)
-[![Linux](https://shields.io)](https://linux.org)
+<a href="https://python.org"><img src="https://shields.io" /></a>
+<a href="https://mikrotik.com"><img src="https://shields.io" /></a>
+<a href="https://eltex-co.ru"><img src="https://shields.io" /></a>
+<a href="https://linux.org"><img src="https://shields.io" /></a>
 
 ### 🛠 Сетевой инженер & Автоматизатор (Network Engineer)
 
