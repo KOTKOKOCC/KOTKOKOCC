@@ -15,7 +15,7 @@
 
 | Проект | Статус | Описание |
 | :--- | :---: | :--- |
-| **[Eltex_change_pass](https://github.com/KOTKOKOCC)** | 🚀 **Stable Release** | Автосмена паролей на Eltex-MES через Python. |
+| **[Eltex-change-pass](https://github.com/KOTKOKOCC/Eltex_change_pass)** | 🚀 **Stable Release** | Автосмена паролей на Eltex-MES через Python. |
 | **Hotspot Captive Portal** | 🧪 `Testing` | Backend для MikroTik: авторизация + аналитика. |
 | **Network Mapper** | 🗺 `Concept` | Визуализация топологии сети в реальном времени. |
 
