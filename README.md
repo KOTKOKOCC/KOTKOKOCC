@@ -1,6 +1,6 @@
 # Hi there 👋 I'm KOTKOKOCC!
 <a href="https://python.org"><img src="https://shields.io" /></a>
-<a href="https://mikrotik.com"><img src="https://shields.io" /></a>
+<a href="https://mikrotik.com"><img src="https://img.shields.io/badge/-Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white"/></a>
 <a href="https://eltex-co.ru"><img src="https://shields.io" /></a>
 <a href="https://linux.org"><img src="https://shields.io" /></a>
 
