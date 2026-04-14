@@ -32,9 +32,9 @@
 | :--- | :--- |
 | **Bybit Card** | [Получить бонус при регистрации 🎁](https://www.bybit.com/invite?ref=LVWJZR3) |
 | **Карта МИР (Сбер)** | `2202 2080 9806 3523` <!-- Вставь сюда свой номер карты --> |
-| **USDT (BEP20)** | `ТВОЙ_АДРЕС_КОШЕЛЬКА` |
-| **ETH (ERC20)** | `ТВОЙ_АДРЕС_КОШЕЛЬКА` |
-| **USD** <img src="https://img.shields.io/badge/-MasterCard-EB001B?style=flat&logo=mastercard&logoColor=white"/>| [`5341 8376 0997 6164`] |
+| **USDT (BEP20)** | `0x84eeb811d0121f7f19a7f5e09f5e9ea7ab480157` |
+| **ETH (ERC20)** | `0x84eeb811d0121f7f19a7f5e09f5e9ea7ab480157` |
+| **USD** <img src="https://img.shields.io/badge/-MasterCard-EB001B?style=flat&logo=mastercard&logoColor=white"/>| `5341 8376 0997 6164` |
 
 > **Важно:** При отправке крипты убедитесь, что выбрали правильную сеть (**BEP20** для USDT или **ERC20** для ETH), чтобы средства не потерялись.
 
