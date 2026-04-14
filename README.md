@@ -1,17 +1,9 @@
-# Hi there 👋 I'm KOTKOKOCC!
+# Hi there 👋 I'm KOTKOKOCC! ![KOTKOKOCC's GitHub stats](https://vercel.app)
 
-<p align="left">
-  <!-- Python -->
-  <img src="https://shields.io" />
-  <!-- MikroTik -->
-  <img src="https://shields.io" />
-  <!-- Eltex (сделаем синим, так как логотипа в базе нет, используем текст) -->
-  <img src="https://shields.io" />
-  <!-- Linux -->
-  <img src="https://shields.io" />
-  <!-- PostgreSQL -->
-  <img src="https://shields.io" />
-</p>
+[![Python](https://shields.io)](https://python.org)
+[![MikroTik](https://shields.io)](https://mikrotik.com)
+[![Eltex](https://shields.io)](https://eltex-co.ru)
+[![Linux](https://shields.io)](https://linux.org)
 
 ### 🛠 Сетевой инженер & Автоматизатор (Network Engineer)
 
