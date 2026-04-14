@@ -1,11 +1,16 @@
 # Hi there 👋 I'm KOTKOKOCC!
 
 <p align="left">
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+  <!-- Python -->
+  <img src="https://shields.io" />
+  <!-- MikroTik -->
+  <img src="https://shields.io" />
+  <!-- Eltex (сделаем синим, так как логотипа в базе нет, используем текст) -->
+  <img src="https://shields.io" />
+  <!-- Linux -->
+  <img src="https://shields.io" />
+  <!-- PostgreSQL -->
+  <img src="https://shields.io" />
 </p>
 
 ### 🛠 Сетевой инженер & Автоматизатор (Network Engineer)
