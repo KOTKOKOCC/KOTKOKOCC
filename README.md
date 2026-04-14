@@ -23,9 +23,6 @@
 
 ---
 
-#### 📊 GitHub Stats
-![KOTKOKOCC's GitHub stats](https://vercel.app)
-
 ---
 
 #### 💰 Поддержка (Sponsorship)
