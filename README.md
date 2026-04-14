@@ -1,5 +1,4 @@
-# Hi there 👋 I'm KOTKOKOCC! ![KOTKOKOCC's GitHub stats](https://vercel.app)
-
+# Hi there 👋 I'm KOTKOKOCC!
 [![Python](https://shields.io)](https://python.org)
 [![MikroTik](https://shields.io)](https://mikrotik.com)
 [![Eltex](https://shields.io)](https://eltex-co.ru)
