@@ -37,7 +37,6 @@
 
 #### 📫 Связь со мной:
 * **Telegram:** [@i_am_kotkokocc](https://t.me)
-* **Email:** [ТВОЙ_EMAIL@example.com]
 
 ---
 *С благодарностью за поддержку!* ⚡
